@@ -8,11 +8,11 @@ published: true
 author: Yongjun Song
 ---
 
-# Hello, very nice to meet you all! #
+Hello, very nice to meet you all!
 
-## My name is Yongjun Song. I am working as a geneticist and a PM. I am trying to build a flexible team that work as a functional unit to solve a given problem in an efficient way. ##
+My name is Yongjun Song. I am working as a geneticist and a PM. I am trying to build a flexible team that work as a functional unit to solve a given problem in an efficient way.
 
-##There are two projects that I am mainly working right now.
+There are two projects that I am mainly working right now.
 
 ### **GEBRA** from 3billion ###
 
