@@ -13,7 +13,9 @@ Hello, very nice to meet you all
 My name is Yongjun Song. This post is about me.
 
 Name: Yongjun Song
+
 From: South Korea
+
 Occupation: PM at 3billion
 
 I am working as a geneticist and a PM. I am trying to build a flexible team that work as a functional unit to solve a given problem in an efficient way.
