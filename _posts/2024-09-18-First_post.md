@@ -8,19 +8,19 @@ published: true
 author: Yongjun Song
 ---
 
-#Hello, very nice to meet you all!
+# Hello, very nice to meet you all! #
 
-##My name is Yongjun Song. I am working as a geneticist and a PM. I am trying to build a flexible team that work as a functional unit to solve a given problem in an efficient way.
+## My name is Yongjun Song. I am working as a geneticist and a PM. I am trying to build a flexible team that work as a functional unit to solve a given problem in an efficient way. ##
 
 ##There are two projects that I am mainly working right now.
 
-###**GEBRA** from 3billion
+### **GEBRA** from 3billion ###
 
 **GEBRA** is an analysis and interpretation software designed to assist ***genetics professionals*** (clinicians, medical geneticists, variant scientists, genetic counselors, bioinformaticians, and etc.) finding casual variant(s) for ***rare disease*** patients' condition. Our company, 3billion, has been using this platform for our inhouse genetics team and decided to commercialize it. 
 
 We've been improving GEBRA through continuous iteration with our development team, and we are going for the beta test on this October. I will share the journey our team has been through with you with some time gap.
 
-###**PETQ** (working title) for a side project
+### **PETQ** (working title) for a side project ###
 
 **PETQ** is a project aim to deploy an AI-healthcare manager for pet owners. I am working on this project with two AI engineers at work from 3billion (H.Kim and J.Baek). We are not focusing on developing an algorithm yet. The service in our mind is an agent that encourages pet owners to monitor their pets and record pets' behavior or conditions. With data collected, we'll be able to provide useful insights about pets' health and so on. I will share this project and it's progress with you with some time gaps too.
 
