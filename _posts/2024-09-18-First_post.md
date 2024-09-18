@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "About me"
 date: 2024-09-18
 tags: GEBRA PETQ
