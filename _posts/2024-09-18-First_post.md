@@ -20,9 +20,9 @@ There are two projects that I am mainly working right now.
 
 We've been improving GEBRA through continuous iteration with our development team, and we are going for the beta test on this October. I will share the journey our team has been through with you with some time gap.
 
-### **PETQ** (working title) for a side project ###
+### **PETQ** for a side project ###
 
-**PETQ** is a project aim to deploy an AI-healthcare manager for pet owners. I am working on this project with two AI engineers at work from 3billion (H.Kim and J.Baek). We are not focusing on developing an algorithm yet. The service in our mind is an agent that encourages pet owners to monitor their pets and record pets' behavior or conditions. With data collected, we'll be able to provide useful insights about pets' health and so on. I will share this project and it's progress with you with some time gaps too.
+**PETQ** (working title) is a project aim to deploy an AI-healthcare manager for pet owners. I am working on this project with two AI engineers at work from 3billion (H.Kim and J.Baek). We are not focusing on developing an algorithm yet. The service in our mind is an agent that encourages pet owners to monitor their pets and record pets' behavior or conditions. With data collected, we'll be able to provide useful insights about pets' health and so on. I will share this project and it's progress with you with some time gaps too.
 
 If you have any questions about me or projects please feel free to contact.
 
