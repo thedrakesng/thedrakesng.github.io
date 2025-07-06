@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "The AI License: Why Algorithms Aren't Replacing Your Doctor (Yet)"
+title: "The AI License: Why Algorithms Can Replace Your Doctor (or already have)"
 date: 2025-07-05
 tags: Ideas
 categories: Ideas
@@ -50,11 +50,11 @@ The "driver's license" is slowly being transferred from a person to a certified 
 
 ### In the Medical Field: The AI Diagnostic Assistant
 
-AI excels at pattern recognition in scans but is deployed as a tool, not a replacement, because it cannot fulfill the core duties of a licensed physician.
+EyeArt, an autonomous AI system that screens for diabetic retinopathy, is no longer just a radiology aide. In 2020 it became the first FDA-cleared algorithm allowed to issue a clinical diagnosis without a physician’s sign-off, and by 2025 it has been validated on more than half a million patient visits worldwide. This is not a narrow pilot—it’s an early prototype of what a licensed, accountable “AI professional” looks like. 
 
-*   **Safety:** AI can spot a tumor in a scan with high accuracy, but it lacks the holistic judgment to manage a patient's overall health, consider complex comorbidities, or handle unexpected complications. The human doctor remains the ultimate safety net.
-*   **Accountability:** When a diagnosis is wrong, the radiologist is liable. There is no legal framework to sue an algorithm for malpractice, making human oversight and legal responsibility non-negotiable.
-*   **Trust:** Trust is built on communication, empathy, and shared decision-making. An AI can provide data, but it cannot replicate the human relationship that is core to the practice of medicine and the trust a patient places in their doctor.
+*   **Safety:** Prospective trials show >95 % sensitivity and clinically acceptable specificity. Post-market surveillance requirements mean every exam is logged and tracked for drift, creating a continuous audit trail of real-world performance. 
+*   **Accountability:** Eyenuk, the legal manufacturer, carries regulatory responsibility under FDA and MDSAP audits.
+*   **Trust:** Each report includes the retinal images with heat-map overlays that highlight the lesions driving the decision, offering clinicians and patients a transparent rationale.
 
 ### In Finance: Automated Underwriting and Valuation
 
@@ -72,7 +72,7 @@ But this comforting vision overlooks the true lesson of the three pillars. Safet
 
 Geoffrey Hinton, a godfather of modern AI, noted that before the Industrial Revolution, physical strength was a human bottleneck. Technology made that bottleneck irrelevant. Today, intelligence is the bottleneck. To believe that AI will stop at being a mere 'assistant' is to assume this revolution will be different from all others.
 
-A professional license is not an eternal shield; it is simply a standard that must be met. For the first time, we have a technology clearly on track to meet that standard. Now it is only a matter of time, necessity, regulation, and so on.
+As the post said the transition is happening. Autonomous driving is replacing UBER drivers. EyeArt has replaced the fundus examination and it has already shifted two of the three pillars (safety and accountability). Trust is being earned through open transparency rather than bedside manner. That trajectory—from tool ➜ autonomous system ➜ licensed entity—is exactly the roadmap every high-stakes profession will face. The logic is clear: if an algorithm can satisfy the pillars better, cheaper, or at larger scale than a human, the “license” will migrate. A professional license is not an eternal shield. Now it is only a matter of time, necessity, regulation, and so on.
 
 The 'so on' seems quiet long. 
 
