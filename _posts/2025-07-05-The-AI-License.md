@@ -70,9 +70,11 @@ The prevailing narrative from Silicon Valley is that the future is one of collab
 
 But this comforting vision overlooks the true lesson of the three pillars. Safety, Accountability, and Trust are not permanent barriers; they are engineering problems. They represent the benchmark that an AI must meet to acquire a license. The work being done with autonomous vehicles shows us that a roadmap to meeting these benchmarks already exists.
 
-Geoffrey Hinton, a godfather of modern AI, noted that before the Industrial Revolution, physical strength was a human bottleneck. Technology made that bottleneck irrelevant. Today, intelligence is the bottleneck. To believe that AI will stop at being a mere 'assistant' is to assume this revolution will be different from all others.
+Geoffrey Hinton, a godfather of modern AI, noted that before the Industrial Revolution, physical strength was a human bottleneck. Technology made that bottleneck irrelevant. Today, intelligence is the bottleneck. 
 
-As the post said the transition is happening. Autonomous driving is replacing UBER drivers. EyeArt has replaced the fundus examination and it has already shifted two of the three pillars (safety and accountability). Trust is being earned through open transparency rather than bedside manner. That trajectory—from tool ➜ autonomous system ➜ licensed entity—is exactly the roadmap every high-stakes profession will face. The logic is clear: if an algorithm can satisfy the pillars better, cheaper, or at larger scale than a human, the “license” will migrate. A professional license is not an eternal shield. Now it is only a matter of time, necessity, regulation, and so on.
+To believe that AI will stop at being a mere 'assistant' is to assume this revolution will be different from all others.
+
+The replacement is happening. Autonomous driving is replacing UBER drivers. EyeArt has replaced the fundus examination and it has already shifted two of the three pillars (safety and accountability). Trust is being earned through open transparency rather than bedside manner. That trajectory—from tool ➜ autonomous system ➜ licensed entity—is exactly the roadmap every high-stakes profession will face. The logic is clear: if an algorithm can satisfy the pillars better, cheaper, or at larger scale than a human, the “license” will migrate. A professional license is not an eternal shield. Now it is only a matter of time, necessity, regulation, and so on.
 
 The 'so on' seems quiet long. 
 
