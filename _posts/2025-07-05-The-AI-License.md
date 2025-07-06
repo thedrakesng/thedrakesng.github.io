@@ -12,7 +12,7 @@ The question "Will AI take my job?" has become a familiar hum of anxiety in the 
 
 While headlines often focus on replacement, the current reality is one of **augmentation**. For now, in most licensed jobs, AI is a powerful assistant, not a successor. In law, it reviews thousands of contracts for key clauses, but a human lawyer builds the case strategy. In medicine, it flags anomalies in an MRI scan, but a human radiologist makes the final diagnosis and consults with the patient.
 
-But how long will AI remain as assists? To understand when—or if—AI will fully replace licensed professionals, we must first ignore the technology and ask a more fundamental question: **Why do licenses exist?**
+But how long will AI remain as assistants? To understand when—or if—AI will fully replace licensed professionals, we must first ignore the technology and ask a more fundamental question: **Why do licenses exist?**
 
 The answer rests on three foundational pillars.
 
@@ -66,10 +66,10 @@ Automated systems like Fannie Mae's Desktop Underwriter (DU) have streamlined fi
 
 ### Conclusion: The Future is Collaboration
 
-AI is not on the verge of replacing doctors, lawyers, or engineers, because it has not yet met the fundamental requirements of a professional license. It cannot yet be held fully accountable, its decision-making is often opaque, and its safety in novel situations is not guaranteed.
+The prevailing narrative from Silicon Valley is that the future is one of collaboration. We are told that AI will handle the repetitive tasks, freeing up human professionals to focus on higher-level strategy, ethics, and communication.
 
-The future, at least what the AI executives have been saying, is one of collaboration. 'AI will handle the data-intensive, repetitive tasks, freeing up licensed human professionals to focus on what they do best: strategic thinking, ethical judgment, human-to-human communication, and navigating the complex, unpredictable edge cases of the real world.'
+But this comforting vision overlooks the true lesson of the three pillars. Safety, Accountability, and Trust are not permanent barriers; they are engineering problems. They represent the benchmark that an AI must meet to acquire a license. The work being done with autonomous vehicles shows us that a roadmap to meeting these benchmarks already exists.
 
-I strongly doubt this to be our future. Jeffrey Hinton once said "The physical strength was a bottleneck before the industrial revolution. Now it is intelligence." During this path of a revolution, I believe that intelligence of regular man will be surpassed by the technology as the strength of a man was surpassed.
+Geoffrey Hinton, a godfather of modern AI, noted that before the Industrial Revolution, physical strength was a human bottleneck. Technology made that bottleneck irrelevant. Today, intelligence is the bottleneck. To believe that AI will stop at being a mere 'assistant' is to assume this revolution will be different from all others.
 
-The license will not be a shield against technology; it's a benchmark for it. And it's a benchmark that algorithms have yet to meet, but soon will.
+The professional license is not an eternal shield. It is a standard to be met. And for the first time, we have a technology that is on a clear path to meeting it.
