@@ -64,7 +64,7 @@ Automated systems like Fannie Mae's Desktop Underwriter (DU) have streamlined fi
 *   **Accountability:** The underwriter's signature on a loan or an appraiser's on a valuation is a legally binding act of professional responsibility. The algorithm's recommendation carries no such weight or legal standing.
 *   **Trust:** The financial system operates on trusted, legally recognized signals of approval. The license is that signal. The market trusts the professional's judgment to stand behind a financial decision, not the machine's output.
 
-### Conclusion: The Future is Collaboration
+### Conclusion: The Replacement is a matter(s) of... [ ]
 
 The prevailing narrative from Silicon Valley is that the future is one of collaboration. We are told that AI will handle the repetitive tasks, freeing up human professionals to focus on higher-level strategy, ethics, and communication.
 
@@ -72,4 +72,8 @@ But this comforting vision overlooks the true lesson of the three pillars. Safet
 
 Geoffrey Hinton, a godfather of modern AI, noted that before the Industrial Revolution, physical strength was a human bottleneck. Technology made that bottleneck irrelevant. Today, intelligence is the bottleneck. To believe that AI will stop at being a mere 'assistant' is to assume this revolution will be different from all others.
 
-The professional license is not an eternal shield. It is a standard to be met. And for the first time, we have a technology that is on a clear path to meeting it.
+A professional license is not an eternal shield; it is simply a standard that must be met. For the first time, we have a technology clearly on track to meet that standard. Now it is only a matter of time, necessity, regulation, and so on.
+
+The 'so on' seems quiet long. 
+
+In the next post, I’ll examine the conditions required for this replacement to occur.
