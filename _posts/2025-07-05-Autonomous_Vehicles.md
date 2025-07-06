@@ -2,7 +2,7 @@
 layout: single
 title: "When AI Drives: How the U.S. Is Re-Licensing the Road"
 date: 2025-07-05
-tags: AI, Autonomous Vehicles, License
+tags: Ideas
 categories: Ideas
 published: true
 author: Yongjun Song

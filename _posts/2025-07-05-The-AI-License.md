@@ -2,8 +2,8 @@
 layout: single
 title: "The AI License: Why Algorithms Aren't Replacing Your Doctor (Yet)"
 date: 2025-07-05
-tags: [AI, Future of Work, Regulation, Technology]
-categories: [Technology]
+tags: Ideas
+categories: Ideas
 author: Yongjun Song
 published: true
 ---
