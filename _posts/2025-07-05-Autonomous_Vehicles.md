@@ -1,61 +1,99 @@
 ---
 layout: single
-title: "When AI Drives: Re-Licensing the Road"
+title: "When AI Drives: How the U.S. Is Re-Licensing the Road"
 date: 2025-07-05
-tags: [AI, Autonomous Vehicles, License, Regulation, Technology]
-categories: [Technology]
-published: false
+tags: AI, Autonomous Vehicles, License
+categories: Ideas
+published: true
 author: Yongjun Song
 ---
 
-In our last post, we explored why AI has yet to replace licensed professionals. The reason lies in its inability to satisfy the three pillars of licensing: **Safety, Accountability, and Trust**.
+This is a supplementation after the last post about AI and licensed work, today we deep-dive into a sector where the *license holder* is already shifting from human to machine: **road transport**.
 
-Today, we examine the one field where this transition is actively happening: **autonomous driving**. The driver's license, the most common professional license in the world, is being systematically transferred from a human to an algorithm. This process provides a real-world blueprint for how society learns to regulate, trust, and hold AI accountable for high-stakes work.
+Below is a streamlined analysis of the U.S. journey—from DARPA days to robo-taxis—and what it teaches us about policy, safety, and global competition.
 
-To understand how this is possible, we must analyze it not as a technological race, but as a deliberate effort to meet the three foundational pillars of a license.
+## Executive Snapshot
 
-### 1. The Safety Pillar: From Human Error to Provable Reliability
-
-The entire argument for autonomous driving begins with safety. The core premise is that a certified AI can operate more safely than a human.
-
-*   **The Problem:** The National Highway Traffic Safety Administration (NHTSA) attributes over 94% of serious crashes to human error. This provides a clear, quantifiable benchmark to beat.
-*   **The AI Requirement:** An autonomous system must demonstrate **provable and continuous reliability**. It isn't enough to pass a one-time driving test. It must prove, through massive amounts of data, that it is consistently safer than the average human driver.
-*   **How It's Being Met:** Companies like Waymo and Cruise are achieving this through a two-pronged approach:
-    1.  **Billions of Miles:** They have logged billions of miles in simulation and tens of millions on public roads to train their systems on a vast array of scenarios.
-    2.  **Transparent Reporting:** They regularly publish detailed safety reports that compare their system's performance (e.g., disengagements, accidents) directly against human driver statistics in the same geographic areas.
-
-The goal is to replace the unpredictable nature of human judgment with the statistical safety of a verified system.
-
-### 2. The Accountability Pillar: From Individual Driver to Corporate Liability
-
-If an autonomous vehicle crashes, who is at fault? The accountability pillar requires a clear and legally recognized answer.
-
-*   **The Problem:** A traditional driver's license links accountability directly to an individual person who can be ticketed, sued, or have their license revoked. An algorithm has no legal personhood.
-*   **The AI Requirement:** A new framework for **legal and financial liability** must be established, designating a specific, insurable entity as the responsible party.
-*   **How It's Being Met:** The U.S. has systematically redefined the concept of a "driver."
-    *   In 2016, NHTSA issued guidance stating that the Automated Driving System (ADS) itself could be considered the legal "driver."
-    *   This shifted the legal liability from a non-existent human driver to the **corporation** that builds and operates the ADS (e.g., Waymo, Cruise, Zoox).
-    *   This corporate entity is the one that must carry insurance, answer to regulators, and can have its "license" to operate revoked. The legal responsibility is now centralized and corporate, not individual.
-
-### 3. The Trust Pillar: From Public Fear to Gradual Acceptance
-
-Trust is the final, and perhaps highest, hurdle. The public must feel safe enough to get into a car with no one at the wheel.
-
-*   **The Problem:** The idea of a machine controlling a two-ton vehicle at high speeds is inherently unsettling. High-profile accidents involving semi-autonomous systems (like Tesla's Autopilot) have fueled public skepticism.
-*   **The AI Requirement:** The system must achieve **radical transparency and explainability** to build public confidence. The public and regulators must believe the system is not a "black box."
-*   **How It's Being Met:** Trust is being built incrementally through a slow, deliberate, and visible process.
-    *   **Geo-fenced Rollouts:** Companies have limited their initial driverless services to specific, well-mapped urban areas (like Phoenix and San Francisco).
-    *   **Normalization:** By operating millions of uneventful, paid rides, services like Waymo One are gradually normalizing the experience. Each successful trip turns a novelty into a utility.
-    *   **Data-Driven Confidence:** While polls still show apprehension, the downward trend in public fear correlates with the upward trend in successfully completed driverless miles.
-
-### Conclusion: A Blueprint for Licensing AI
-
-The journey of the autonomous vehicle is more than a story about technology; it is a masterclass in how to build a socio-legal framework for AI. It demonstrates that for an AI to take over a licensed role, it must be embedded in a system that provides:
-
-1.  **Provably Superior Safety:** Backed by transparent, verifiable data.
-2.  **Clear Corporate Accountability:** A legal entity to hold responsible.
-3.  **Earned Public Trust:** Built through slow, proven, and reliable performance.
-
-Driving is the first domino to fall. The blueprint being used to re-license the road—built on the pillars of Safety, Accountability, and Trust—is the same one that will eventually be used for law, medicine, and beyond.
+| Question | Takeaway |
+| --- | --- |
+| **Can AI be the legal “driver”?** | In the U.S., yes. Federal and state rules now let an *Automated Driving System* (ADS) hold driver status. |
+| **Why did regulators budge?** | 1 Safety data  2 Economic upside  3 Global tech race  4 Public acceptance tipping point. |
+| **What still worries stakeholders?** | Liability gaps, cyber-risk, workforce transition, edge-case safety.
 
 ---
+
+## 1  Technical Backdrop – From DARPA to Level 4
+
+Early DARPA Grand Challenges (2004-07) proved computers could finish a desert course, then an urban one. A decade of sensor fusion (LiDAR, radar, cameras), deep-learning perception, and billions of simulated miles pushed capability to **SAE Level 4** in geo-fenced zones. Waymo alone logs over 20 million public-road miles; Tesla’s fleet streams billions more for partial automation learning. The tech case—*machines can drive safely under set conditions*—is now data-rich.
+
+---
+
+## 2  Logical Rationale – Safety, Access, Liability
+
+1. **Safety math** – NHTSA says 94 % of crashes stem from human error; if AI removes even half, the U.S. could save 20k lives and $190 B annually.
+2. **Mobility equity** – Level 4 vehicles promise independence for seniors, disabled riders, and non-licensed travelers.
+3. **Driver re-definition** – 2016 NHTSA memo declared an ADS may be treated as the “driver,” opening the door for licence migration.
+
+---
+
+## 3  Social Pulse – Trust Earned & Tested
+
+* **Hype phase** – Google’s 2015 public rides generated excitement.
+* **Shock phase** – Tesla’s 2016 fatal Autopilot crash and Uber’s 2018 pedestrian death fueled backlash.
+* **Acceptance phase** – Waymo One’s paid service (2018-) now runs millions of rider-only kilometers, gradually normalising “no human at wheel.” AAA polls still show 60 % fear, yet numbers are trending down as miles accumulate without major incidents.
+
+---
+
+## 4  Legal Milestones – Rewriting the Driver’s License
+
+| Year | Milestone | Licence Impact |
+| --- | --- | --- |
+| 2011 | Nevada enacts first AV law | Introduces non-human driver concept. |
+| 2012 | Google car receives **vehicle licence** | Licence issued to software-equipped car. |
+| 2016 | NHTSA recognises AI as legal driver | Federal shift; states follow. |
+| 2022 | FMVSS update removes wheel/pedal requirement | Allows cars impossible for humans to drive. |
+| 2020-24 | Waymo & Cruise launch driverless robo-taxis | “Passenger licence zero” becomes reality. |
+
+Key ingredients: ① safety-case evidence ② regulatory sandbox → statutes ③ insurance model shift ④ public-trust threshold.
+
+---
+
+## 5  Economic Stakes – Costs, Capital, Competition
+
+* **Savings** – Fewer crashes, lower logistics labour, 24/7 utilisation.
+* **New markets** – Mobility-as-a-Service, last-mile delivery bots, data services.
+* **Risk** – High burn rates (e.g., Argo AI’s 2022 shutdown) show capital patience limits.
+* **Geopolitics** – China’s Baidu and Pony.ai push cities to green-light fully driverless fleets, pressuring U.S. regulators to keep pace.
+
+---
+
+## 6  Global Scorecard (2024)
+
+| Region | Policy Pace | Legal Readiness | Commercial Stage |
+| --- | --- | --- | --- |
+| **U.S.** | Fast federal guidance + state pilots | ADS can be “driver”; FMVSS updated | Multi-city robo-taxis live |
+| **China** | Central + municipal sprint | Remote-driver & driverless licences issued | 10+ cities paid robo-taxis |
+| **EU** | UNECE ALKS & national laws | Level 3 on highways; Level 4 sandbox | Pilot shuttles; limited robo-taxis |
+| **Japan** | Road Traffic Act revamps (2023) | Level 4 in designated zones | Rural autonomous carts live |
+| **Korea** | Draft Level 4 bill pending | Driver must still sit in car | Limited paid trials with safety driver |
+
+---
+
+## Conclusion – Licencing the Algorithm
+
+* **Driving** is the prototype for licence migration: from human to certified system.
+* Success hinges on a **dual safety-case** (lab + real-world data), clear **liability plumbing**, and a staged **workforce transition plan**.
+* The same blueprint may soon visit aviation, shipping, and rail.
+
+> **Bottom Line** – The hardest part of self-driving isn’t the neural net; it’s redesigning the rules so society trusts an algorithm with the keys.
+
+*Thanks for reading! As always, send questions or feedback my way. See you in the next post.*
+
+## References
+
+1. NHTSA. *Critical Reasons for Crashes Investigated in the National Motor Vehicle Crash Causation Survey* (2015).
+2. Waymo Safety Report, 2024 edition.
+3. FMVSS Final Rule for Vehicles Without Driving Controls (2022).
+4. AAA. *Public Sentiment on Autonomous Vehicles* (2024).
+5. Reuters. *Waymo expands driverless service to San Francisco* (2024).
+6. Pony.ai. *Beijing driverless licence press release* (2023).
