@@ -10,9 +10,9 @@ published: true
 
 The question "Will AI take my job?" has become a familiar hum of anxiety in the modern workforce. For many, the ultimate safe harbor has always been a professional license—a shield of education, ethics, and law that separates a professional from a hobbyist. But as algorithms begin to perform tasks in medicine, law, and engineering, the shield is starting to look less like a solid barrier and more like a permeable membrane.
 
-While headlines often focus on replacement, the current reality is one of **augmentation**. AI is a powerful assistant, not a successor. In law, it reviews thousands of contracts for key clauses, but a human lawyer builds the case strategy. In medicine, it flags anomalies in an MRI scan, but a human radiologist makes the final diagnosis and consults with the patient.
+While headlines often focus on replacement, the current reality is one of **augmentation**. For now, in most licensed jobs, AI is a powerful assistant, not a successor. In law, it reviews thousands of contracts for key clauses, but a human lawyer builds the case strategy. In medicine, it flags anomalies in an MRI scan, but a human radiologist makes the final diagnosis and consults with the patient.
 
-This distinction is not a temporary phase; it is the direct result of what a professional license truly represents. To understand when—or if—AI will fully replace licensed professionals, we must first ignore the technology and ask a more fundamental question: **Why do licenses exist?**
+But how long will AI remain as assists? To understand when—or if—AI will fully replace licensed professionals, we must first ignore the technology and ask a more fundamental question: **Why do licenses exist?**
 
 The answer rests on three foundational pillars.
 
@@ -34,9 +34,9 @@ For an algorithm to truly replace a licensed professional, it must do more than 
 
 | Licensing Pillar | Corresponding AI Requirement | What It Means in Practice |
 | :--- | :--- | :--- |
-| **1. Safety** | **Provable & Continuous Reliability** | The AI can't just pass a one-time test. It needs a system for **continuous, real-time verification** of its performance against real-world outcomes. Its safety and efficacy data must be transparent and auditable by independent bodies (think of an FDA for algorithms), proving it consistently outperforms the human baseline, especially in unexpected "edge case" scenarios. |
-| **2. Accountability** | **A New Framework for Legal & Financial Liability** | Who do you sue for malpractice? A specific, legally recognized entity must be designated as the "license holder." This entity—whether the developer or a certified operator—must be **insurable for malpractice** at a massive scale and subject to a clear process for having its "license" to operate revoked by regulators. Without a clear line of responsibility, there is no recourse. |
-| **3. Trust** | **Radical Transparency & Explainability (XAI)** | The AI cannot be a "black box." It must be able to **explain its reasoning** for any high-stakes decision in a way that is understandable to both regulators and the public it serves. This isn't just a matter of logging outputs; it's about generating a logical, auditable rationale. This is the only way to build trust and bridge the knowledge gap when the "professional" is a piece of code. |
+| **1.Safety** | **Provable & Continuous Reliability** | The AI can't just pass a one-time test. It needs a system for **continuous, real-time verification** of its performance against real-world outcomes. Its safety and efficacy data must be transparent and auditable by independent bodies (think of an FDA for algorithms), proving it consistently outperforms the human baseline, especially in unexpected "edge case" scenarios. |
+| **2.Accountability** | **A New Framework for Legal & Financial Liability** | Who do you sue for malpractice? A specific, legally recognized entity must be designated as the "license holder." This entity—whether the developer or a certified operator—must be **insurable for malpractice** at a massive scale and subject to a clear process for having its "license" to operate revoked by regulators. Without a clear line of responsibility, there is no recourse. |
+| **3.Trust** | **Radical Transparency & Explainability (XAI)** | The AI cannot be a "black box." It must be able to **explain its reasoning** for any high-stakes decision in a way that is understandable to both regulators and the public it serves. This isn't just a matter of logging outputs; it's about generating a logical, auditable rationale. This is the only way to build trust and bridge the knowledge gap when the "professional" is a piece of code. |
 
 ### The Transition in Action: From Driver's License to System Certification
 
@@ -68,6 +68,8 @@ Automated systems like Fannie Mae's Desktop Underwriter (DU) have streamlined fi
 
 AI is not on the verge of replacing doctors, lawyers, or engineers, because it has not yet met the fundamental requirements of a professional license. It cannot yet be held fully accountable, its decision-making is often opaque, and its safety in novel situations is not guaranteed.
 
-The future, for the foreseeable future, is one of collaboration. AI will handle the data-intensive, repetitive tasks, freeing up licensed human professionals to focus on what they do best: strategic thinking, ethical judgment, human-to-human communication, and navigating the complex, unpredictable edge cases of the real world.
+The future, at least what the AI executives have been saying, is one of collaboration. 'AI will handle the data-intensive, repetitive tasks, freeing up licensed human professionals to focus on what they do best: strategic thinking, ethical judgment, human-to-human communication, and navigating the complex, unpredictable edge cases of the real world.'
 
-The license isn't a shield against technology; it's a benchmark for it. And it's a benchmark that algorithms have yet to meet.
+I strongly doubt this to be our future. Jeffrey Hinton once said "The physical strength was a bottleneck before the industrial revolution. Now it is intelligence." During this path of a revolution, I believe that intelligence of regular man will be surpassed by the technology as the strength of a man was surpassed.
+
+The license will not be a shield against technology; it's a benchmark for it. And it's a benchmark that algorithms have yet to meet, but soon will.
